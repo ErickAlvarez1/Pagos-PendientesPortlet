@@ -1,0 +1,5 @@
+Bundle-Name: Pagos-PendientesPortlet
+Bundle-SymbolicName: com.tokio.Pagos.PendientesPortlet
+Bundle-Version: 1.0.0
+Export-Package: com.tokio.Pagos.PendientesPortlet.constants
+Liferay-Configuration-Path: /configuration

@@ -1,0 +1,119 @@
+.text-center button{
+	min-width: 82px;
+}
+.text-center button.high{
+	min-width: 180px;
+}
+
+.list-group-item span.badge {
+	margin-left: 10px;
+}
+
+.site-wrapper .btn.btn-sm {
+	padding: 0.5rem 1.4rem;
+}
+
+.file-input .file-caption-main .file-caption{
+	height: 100%;
+    margin-top: 6px;	
+}
+
+.banner {
+	/*font-size: 1.25rem;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;*/
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    text-align: justify;
+}
+
+.lil-font {
+	font-size: 1rem;
+}
+
+.contrast-text{
+	color: #be8f2a;
+    font-weight: bold;
+}
+
+.top-filters{
+	margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.bgd-full {
+	height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 100;
+}
+.modal {
+	z-index: 200;
+}
+
+#ok-modal .modal-body {
+	font-size: 20px;
+}
+
+.site-wrapper footer .footer-copyright .copyright-content {
+
+}
+
+.modal-body .success-pay-header {
+	background-color: green;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.comprobante .success-pay-header {
+	background-color: green;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.comprobante .error-pay-header {
+	background-color: red;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.modal-body .success-pay-header p.header-icon-ok {
+	margin-bottom: 0;
+    padding-top: 10px;
+}
+
+.modal-pago-legend {
+	font-size: 14px;
+}
+
+.modal-pago-legend p{
+	margin-bottom: 0;
+}
+
+#modal-pago table tbody {
+	color:#000;
+}
+
+
+#modalEjemploSeleccionar .modal-header{
+    background-color: red;
+}
+
+#modalEjemploSeleccionar .modal-header h5{
+    color: white;
+    font-weight: bold;
+}
+
+.comprobante table tbody tr{
+	color: black;
+}

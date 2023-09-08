@@ -1,0 +1,14 @@
+#Wed Jun 23 09:16:38 CDT 2021
+arguments=
+override.workspace.settings=true
+connection.project.dir=../..
+gradle.user.home=
+offline.mode=false
+build.scans.enabled=false
+auto.sync=false
+show.console.view=true
+eclipse.preferences.version=1
+jvm.arguments=
+java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(6.0-20191016123526+0000))
+show.executions.view=true
